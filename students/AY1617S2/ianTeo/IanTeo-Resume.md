@@ -48,17 +48,17 @@ Temp Staff
 <br>
 ## OSS CONTRIBUTIONS
 
-**[PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs)**
+**[PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs) is a free open source plugin for Microsoft PowerPoint which makes creating engaging and interesting presentations easy**
 
 * [Improved tests](https://github.com/PowerPointLabs/PowerPointLabs/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aclosed%20author%3AIanTeo%20FT)
 * [Improved documentation](https://github.com/PowerPointLabs/PowerPointLabs-Website/pulls?q=is%3Apr+is%3Aclosed+author%3AIanTeo)
 * [Added a new feature: SyncLab](https://github.com/PowerPointLabs/PowerPointLabs/pulls?q=is%3Apr+is%3Aclosed+sync+author%3AIanTeo)
 
-**[Duality](https://github.com/AdamsLair/duality)**
+**[Duality](https://github.com/AdamsLair/duality) is a open source 2D game development engine**
 
 * [Fixed a bug](https://github.com/AdamsLair/duality/pull/481)
 
-**[freeCodeCamp]()**
+**[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) is a open source platform for people to learn coding for free**
 
 * [Improved test for challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/13572)
 * [Improved formatting for challenges](https://github.com/freeCodeCamp/freeCodeCamp/pull/13559)
@@ -69,6 +69,7 @@ Temp Staff
 **C#**
 
 * Contributed to [PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs)
+* Contributed to [Duality](https://github.com/AdamsLair/duality)
 
 **Performance**
 
@@ -77,6 +78,7 @@ Temp Staff
 
 **Testing**
 
+* Gave a [talk](https://github.com/nus-oss/lightningtalks/issues/36) on mutation testing
 * [Testing](https://github.com/PowerPointLabs/PowerPointLabs/blob/master/README.md) lead for PowerPointLabs
 * [Fixed](https://github.com/PowerPointLabs/PowerPointLabs/issues/1127) and [improved](https://github.com/PowerPointLabs/PowerPointLabs/pull/1091) tests for PowerPointLabs
 
