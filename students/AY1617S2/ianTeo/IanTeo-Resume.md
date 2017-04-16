@@ -18,11 +18,13 @@ Diploma in Information Technology
 
 <br>
 ## EXPERIENCE
-**National University of Singapore (Aug 2015 - Nov 2015)**
+**National University of Singapore (Aug 2015 - Present)**
 
 Tutorial Assistant for CS1020
 
-* Tutored students in CS1020 Data Structures and Algorithms through answering questions on the student discussion forums and giving feedback on lab assignments and tests.
+* Assisted professors in conducting lab sessions for students of CS1020 Data Structures and Algorithms I and CS2010 Data Structures and Algorithms II.
+* Prepared instructional materials and assessed student performance
+* Tutored students independently and in small groups
 
 **Nanyang Polytechnic (Jun 2013 - Oct 2013)**
 
@@ -48,12 +50,18 @@ Temp Staff
 
 **[PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs)**
 
-* [Fixed bugs and improved tests](https://github.com/PowerPointLabs/PowerPointLabs/pulls?q=is%3Apr+is%3Aclosed+author%3AIanTeo)
+* [Improved tests](https://github.com/PowerPointLabs/PowerPointLabs/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aclosed%20author%3AIanTeo%20FT)
 * [Improved documentation](https://github.com/PowerPointLabs/PowerPointLabs-Website/pulls?q=is%3Apr+is%3Aclosed+author%3AIanTeo)
+* [Added a new feature: SyncLab](https://github.com/PowerPointLabs/PowerPointLabs/pulls?q=is%3Apr+is%3Aclosed+sync+author%3AIanTeo)
 
 **[Duality](https://github.com/AdamsLair/duality)**
 
-* [Fixed a bug](https://github.com/AdamsLair/duality/pulls?q=is%3Apr+is%3Aclosed+author%3AIanTeo)
+* [Fixed a bug](https://github.com/AdamsLair/duality/pull/481)
+
+**[freeCodeCamp]()**
+
+* [Improved test for challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/13572)
+* [Improved formatting for challenges](https://github.com/freeCodeCamp/freeCodeCamp/pull/13559)
 
 <br>
 ## EXPERT AREA
