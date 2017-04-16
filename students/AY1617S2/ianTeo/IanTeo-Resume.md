@@ -81,6 +81,7 @@ Temp Staff
 * Gave a [talk](https://github.com/nus-oss/lightningtalks/issues/36) on mutation testing
 * [Testing](https://github.com/PowerPointLabs/PowerPointLabs/blob/master/README.md) lead for PowerPointLabs
 * [Fixed](https://github.com/PowerPointLabs/PowerPointLabs/issues/1127) and [improved](https://github.com/PowerPointLabs/PowerPointLabs/pull/1091) tests for PowerPointLabs
+* Added [tests](https://github.com/PowerPointLabs/PowerPointLabs/pull/1251) for new feature for PowerPointLabs
 
 <br>
 ## SKILLS
