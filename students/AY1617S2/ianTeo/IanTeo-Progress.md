@@ -123,4 +123,7 @@ Effort| Type | PR | Issue
 1 | R | [#1291](https://github.com/PowerPointLabs/PowerPointLabs/pull/1291) | SyncLab revision
 2 | R | [#1277](https://github.com/PowerPointLabs/PowerPointLabs/pull/1277) | Sync Lab Updates
 1 | D | [#1292](https://github.com/PowerPointLabs/PowerPointLabs/pull/1292) | Remove unused codes
- 
+2 | O | - | Design for SyncLab portion of the Poster for STePS
+8 | O | - | Manned the STePS booth for PowerPointLabs and convinced passerbys to try PowerPointLabs
+1 | O | - | Set up PowerPointLabs booth for STePS (Sticking the Poster, preparing the computers for live demo)
+4 | O | - | SyncLab documentation
